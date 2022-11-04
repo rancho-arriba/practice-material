@@ -7,5 +7,3 @@ def makeArrayConsecutive(statues):
         if statues[i + 1] - statues[i] > 1:
             oscar += statues[i + 1] - statues[i] - 1
     return oscar
-
-statues = [3, ]
