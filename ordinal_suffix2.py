@@ -16,4 +16,4 @@ def ordinal_suffix2(number):
     else:
         return str(number)+'th'
 
-print(ordinal_suffix2(991))
+print(ordinal_suffix2(43))
