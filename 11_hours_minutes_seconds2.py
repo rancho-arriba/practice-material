@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 """ Convert seconds to hours, minutes, seconds."""
 
 def hr_min_sec(total_seconds):
