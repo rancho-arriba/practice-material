@@ -1,5 +1,6 @@
 # Custom ignores
 *.code-workspace
+*.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
